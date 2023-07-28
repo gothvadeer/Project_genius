@@ -12,6 +12,6 @@
 
 
 
-<img width="370" alt="Captura de tela 2023-07-12 194415" src="https://github.com/gothvadeer/Project_genius/assets/105323748/7346acfa-2104-42ca-88e1-78c3aeb14989">
+<img width="370"  src="https://github.com/gothvadeer/Project_genius/assets/105323748/7346acfa-2104-42ca-88e1-78c3aeb14989">
 
-<img width="375" alt="Captura de tela 2023-07-12 194505" src="https://github.com/gothvadeer/Project_genius/assets/105323748/983a3cad-c2ee-4dc0-bc0f-fcfe62be2886">
+<img width="375" src="https://github.com/gothvadeer/Project_genius/assets/105323748/983a3cad-c2ee-4dc0-bc0f-fcfe62be2886">
